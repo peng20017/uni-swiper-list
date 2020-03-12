@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/swipe-list/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "WxP UI",
+    "backgroundColor": "#f8f9fa"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap11.json"
+}
