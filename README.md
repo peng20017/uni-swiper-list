@@ -15,7 +15,7 @@ uni-app版，用原生swiper实现左右滑动，movable-area来实现下拉加�
 ## 如何使用
 
 ```
-git clone 
+git clone https://github.com/peng20017/uni-swiper-list.git
 ```
 
 直接放入 HBuilder X -> 运行 -> 微信小程序
